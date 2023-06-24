@@ -1,3 +1,5 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
 PR-prot.zip filter=lfs diff=lfs merge=lfs -text
+PR-prototype.zip filter=lfs diff=lfs merge=lfs -text
+*PR-prototype.zip filter=lfs diff=lfs merge=lfs -text
